@@ -54,5 +54,5 @@ You can decide if you'd like to use *event delegation* to handle this, or if you
 
 **YOUR NOTES**
 ```
-
+event delegation to add a click listener and if the target matches .like-button
 ```
